@@ -1,0 +1,38 @@
+{
+    "name": "centos7",
+    "description": "This box contains a VirtualBox vbox for CentOS 7 64-bit.",
+    "versions": [{
+        "version": "1.0",
+        "providers": [{
+                "name": "virtualbox",
+                "url": "http://192.168.4.23/pub/vagrant/centos7/CentOS7_3.0.box",
+                "checksum_type": "sha256",
+                "checksum": "620013c116d15303059e54faf0970349214599b694c8d98cd686649d6cfd4bea"
+        }]
+      },{
+        "version": "1.1",
+        "providers": [{
+                "name": "virtualbox",
+                "url": "http://192.168.4.23/pub/vagrant/centos7/CentOS7_3.1.box",
+                "checksum_type": "sha256",
+                "checksum": "f8a55723a5af388bb23b83b410d59499c2f9861a5d277704a2f5a9f264c56a9c"
+        }]
+      },{
+        "version": "1.2",
+        "providers": [{
+                "name": "virtualbox",
+                "url": "http://192.168.4.23/pub/vagrant/centos7/CentOS7_3.2.box",
+                "checksum_type": "sha256",
+                "checksum": "1f9a9998890bde6fc353fe1f8d147529aa6221745b0a966492363df3994ae9fc"
+        }]  
+      },{
+        "version": "1.2",
+        "providers": [{
+                "name": "virtualbox",
+                "url": "http://192.168.4.23/pub/vagrant/centos7/CentOS7_3.3.box",
+                "checksum_type": "sha256",
+                "checksum": "30ad998816aecb56cebafee77a28bcdcd7d55931dbf955b4bae1e99368468cc2"
+        }]  
+    }]
+}
+

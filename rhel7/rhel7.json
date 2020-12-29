@@ -1,0 +1,14 @@
+{
+    "name": "rhel7",
+    "description": "This box contains a VirtualBox vbox for RHEL 7",
+    "versions": [{
+        "version": "1.0",
+        "providers": [{
+                "name": "virtualbox",
+                "url": "http://192.168.4.23/pub/vagrant/rhel7/RHEL7_1.0.box",
+                "checksum_type": "sha256",
+                "checksum": "620013c116d15303059e54faf0970349214599b694c8d98cd686649d6cfd4bea"
+        }]
+    }]
+}
+
