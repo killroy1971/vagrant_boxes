@@ -1,0 +1,10 @@
+= vagrant_boxes
+
+This is where I have stored my Vagrant box build files.
+
+== License
+MIT
+
+== Author
+Glenn H. Snead (gsnead@redhat.com)
+
